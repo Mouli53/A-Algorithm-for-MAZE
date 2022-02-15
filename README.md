@@ -1,5 +1,4 @@
-# A-Algorithm-for-MAZE
-
+# A star Algorithm for MAZE
 
 This is a fun experiment to find the path using A star aglorithm
 
