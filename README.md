@@ -9,3 +9,7 @@ I have taken a random maze and build the code for A star algorithm, so that it c
 # Towers of HANOI
 
 I have also implemented BFS and A* and Proved that A* is better than BFS.
+
+# Hill Climbing algorithm
+
+I have also demonstrated a simple way to apply Hill Climbing Algorithm
